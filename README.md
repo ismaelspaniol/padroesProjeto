@@ -1,0 +1,2 @@
+# padroesProjeto
+GRASP e GOF
